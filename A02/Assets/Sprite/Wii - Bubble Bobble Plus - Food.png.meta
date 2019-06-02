@@ -1,0 +1,3249 @@
+fileFormatVersion: 2
+guid: f6f860f3a6fab5c48ab37c68de21e6f0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wii - Bubble Bobble Plus - Food_0
+    21300002: Wii - Bubble Bobble Plus - Food_1
+    21300004: Wii - Bubble Bobble Plus - Food_2
+    21300006: Wii - Bubble Bobble Plus - Food_3
+    21300008: Wii - Bubble Bobble Plus - Food_4
+    21300010: Wii - Bubble Bobble Plus - Food_5
+    21300012: Wii - Bubble Bobble Plus - Food_6
+    21300014: Wii - Bubble Bobble Plus - Food_7
+    21300016: Wii - Bubble Bobble Plus - Food_8
+    21300018: Wii - Bubble Bobble Plus - Food_9
+    21300020: Wii - Bubble Bobble Plus - Food_10
+    21300022: Wii - Bubble Bobble Plus - Food_11
+    21300024: Wii - Bubble Bobble Plus - Food_12
+    21300026: Wii - Bubble Bobble Plus - Food_13
+    21300028: Wii - Bubble Bobble Plus - Food_14
+    21300030: Wii - Bubble Bobble Plus - Food_15
+    21300032: Wii - Bubble Bobble Plus - Food_16
+    21300034: Wii - Bubble Bobble Plus - Food_17
+    21300036: Wii - Bubble Bobble Plus - Food_18
+    21300038: Wii - Bubble Bobble Plus - Food_19
+    21300040: Wii - Bubble Bobble Plus - Food_20
+    21300042: Wii - Bubble Bobble Plus - Food_21
+    21300044: Wii - Bubble Bobble Plus - Food_22
+    21300046: Wii - Bubble Bobble Plus - Food_23
+    21300048: Wii - Bubble Bobble Plus - Food_24
+    21300050: Wii - Bubble Bobble Plus - Food_25
+    21300052: Wii - Bubble Bobble Plus - Food_26
+    21300054: Wii - Bubble Bobble Plus - Food_27
+    21300056: Wii - Bubble Bobble Plus - Food_28
+    21300058: Wii - Bubble Bobble Plus - Food_29
+    21300060: Wii - Bubble Bobble Plus - Food_30
+    21300062: Wii - Bubble Bobble Plus - Food_31
+    21300064: Wii - Bubble Bobble Plus - Food_32
+    21300066: Wii - Bubble Bobble Plus - Food_33
+    21300068: Wii - Bubble Bobble Plus - Food_34
+    21300070: Wii - Bubble Bobble Plus - Food_35
+    21300072: Wii - Bubble Bobble Plus - Food_36
+    21300074: Wii - Bubble Bobble Plus - Food_37
+    21300076: Wii - Bubble Bobble Plus - Food_38
+    21300078: Wii - Bubble Bobble Plus - Food_39
+    21300080: Wii - Bubble Bobble Plus - Food_40
+    21300082: Wii - Bubble Bobble Plus - Food_41
+    21300084: Wii - Bubble Bobble Plus - Food_42
+    21300086: Wii - Bubble Bobble Plus - Food_43
+    21300088: Wii - Bubble Bobble Plus - Food_44
+    21300090: Wii - Bubble Bobble Plus - Food_45
+    21300092: Wii - Bubble Bobble Plus - Food_46
+    21300094: Wii - Bubble Bobble Plus - Food_47
+    21300096: Wii - Bubble Bobble Plus - Food_48
+    21300098: Wii - Bubble Bobble Plus - Food_49
+    21300100: Wii - Bubble Bobble Plus - Food_50
+    21300102: Wii - Bubble Bobble Plus - Food_51
+    21300104: Wii - Bubble Bobble Plus - Food_52
+    21300106: Wii - Bubble Bobble Plus - Food_53
+    21300108: Wii - Bubble Bobble Plus - Food_54
+    21300110: Wii - Bubble Bobble Plus - Food_55
+    21300112: Wii - Bubble Bobble Plus - Food_56
+    21300114: Wii - Bubble Bobble Plus - Food_57
+    21300116: Wii - Bubble Bobble Plus - Food_58
+    21300118: Wii - Bubble Bobble Plus - Food_59
+    21300120: Wii - Bubble Bobble Plus - Food_60
+    21300122: Wii - Bubble Bobble Plus - Food_61
+    21300124: Wii - Bubble Bobble Plus - Food_62
+    21300126: Wii - Bubble Bobble Plus - Food_63
+    21300128: Wii - Bubble Bobble Plus - Food_64
+    21300130: Wii - Bubble Bobble Plus - Food_65
+    21300132: Wii - Bubble Bobble Plus - Food_66
+    21300134: Wii - Bubble Bobble Plus - Food_67
+    21300136: Wii - Bubble Bobble Plus - Food_68
+    21300138: Wii - Bubble Bobble Plus - Food_69
+    21300140: Wii - Bubble Bobble Plus - Food_70
+    21300142: Wii - Bubble Bobble Plus - Food_71
+    21300144: Wii - Bubble Bobble Plus - Food_72
+    21300146: Wii - Bubble Bobble Plus - Food_73
+    21300148: Wii - Bubble Bobble Plus - Food_74
+    21300150: Wii - Bubble Bobble Plus - Food_75
+    21300152: Wii - Bubble Bobble Plus - Food_76
+    21300154: Wii - Bubble Bobble Plus - Food_77
+    21300156: Wii - Bubble Bobble Plus - Food_78
+    21300158: Wii - Bubble Bobble Plus - Food_79
+    21300160: Wii - Bubble Bobble Plus - Food_80
+    21300162: Wii - Bubble Bobble Plus - Food_81
+    21300164: Wii - Bubble Bobble Plus - Food_82
+    21300166: Wii - Bubble Bobble Plus - Food_83
+    21300168: Wii - Bubble Bobble Plus - Food_84
+    21300170: Wii - Bubble Bobble Plus - Food_85
+    21300172: Wii - Bubble Bobble Plus - Food_86
+    21300174: Wii - Bubble Bobble Plus - Food_87
+    21300176: Wii - Bubble Bobble Plus - Food_88
+    21300178: Wii - Bubble Bobble Plus - Food_89
+    21300180: Wii - Bubble Bobble Plus - Food_90
+    21300182: Wii - Bubble Bobble Plus - Food_91
+    21300184: Wii - Bubble Bobble Plus - Food_92
+    21300186: Wii - Bubble Bobble Plus - Food_93
+    21300188: Wii - Bubble Bobble Plus - Food_94
+    21300190: Wii - Bubble Bobble Plus - Food_95
+    21300192: Wii - Bubble Bobble Plus - Food_96
+    21300194: Wii - Bubble Bobble Plus - Food_97
+    21300196: Wii - Bubble Bobble Plus - Food_98
+    21300198: Wii - Bubble Bobble Plus - Food_99
+    21300200: Wii - Bubble Bobble Plus - Food_100
+    21300202: Wii - Bubble Bobble Plus - Food_101
+    21300204: Wii - Bubble Bobble Plus - Food_102
+    21300206: Wii - Bubble Bobble Plus - Food_103
+    21300208: Wii - Bubble Bobble Plus - Food_104
+    21300210: Wii - Bubble Bobble Plus - Food_105
+    21300212: Wii - Bubble Bobble Plus - Food_106
+    21300214: Wii - Bubble Bobble Plus - Food_107
+    21300216: Wii - Bubble Bobble Plus - Food_108
+    21300218: Wii - Bubble Bobble Plus - Food_109
+    21300220: Wii - Bubble Bobble Plus - Food_110
+    21300222: Wii - Bubble Bobble Plus - Food_111
+    21300224: Wii - Bubble Bobble Plus - Food_112
+    21300226: Wii - Bubble Bobble Plus - Food_113
+    21300228: Wii - Bubble Bobble Plus - Food_114
+    21300230: Wii - Bubble Bobble Plus - Food_115
+    21300232: Wii - Bubble Bobble Plus - Food_116
+    21300234: Wii - Bubble Bobble Plus - Food_117
+    21300236: Wii - Bubble Bobble Plus - Food_118
+    21300238: Wii - Bubble Bobble Plus - Food_119
+    21300240: Wii - Bubble Bobble Plus - Food_120
+    21300242: Wii - Bubble Bobble Plus - Food_121
+    21300244: Wii - Bubble Bobble Plus - Food_122
+    21300246: Wii - Bubble Bobble Plus - Food_123
+    21300248: Wii - Bubble Bobble Plus - Food_124
+    21300250: Wii - Bubble Bobble Plus - Food_125
+    21300252: Wii - Bubble Bobble Plus - Food_126
+    21300254: Wii - Bubble Bobble Plus - Food_127
+    21300256: Wii - Bubble Bobble Plus - Food_128
+    21300258: Wii - Bubble Bobble Plus - Food_129
+    21300260: Wii - Bubble Bobble Plus - Food_130
+    21300262: Wii - Bubble Bobble Plus - Food_131
+    21300264: Wii - Bubble Bobble Plus - Food_132
+    21300266: Wii - Bubble Bobble Plus - Food_133
+    21300268: Wii - Bubble Bobble Plus - Food_134
+    21300270: Wii - Bubble Bobble Plus - Food_135
+    21300272: Wii - Bubble Bobble Plus - Food_136
+    21300274: Wii - Bubble Bobble Plus - Food_137
+    21300276: Wii - Bubble Bobble Plus - Food_138
+    21300278: Wii - Bubble Bobble Plus - Food_139
+    21300280: Wii - Bubble Bobble Plus - Food_140
+    21300282: Wii - Bubble Bobble Plus - Food_141
+    21300284: Wii - Bubble Bobble Plus - Food_142
+    21300286: Wii - Bubble Bobble Plus - Food_143
+    21300288: Wii - Bubble Bobble Plus - Food_144
+    21300290: Wii - Bubble Bobble Plus - Food_145
+    21300292: Wii - Bubble Bobble Plus - Food_146
+    21300294: Wii - Bubble Bobble Plus - Food_147
+    21300296: Wii - Bubble Bobble Plus - Food_148
+    21300298: Wii - Bubble Bobble Plus - Food_149
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11e3da3bac2bd8419eba2692bc86353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 468
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe5c43a99e22949ab0562058f3a606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 468
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81da196e90dde1145b207f7d5a46d567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 469
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972b0a7a8d940b64185ed150fc709d46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 468
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531eba8caf7c6f248b0071fe444bee9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 469
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ea03fa8a61fd94789855ae0abe8cd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 469
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccaf8a76c1b3c44ba763c94a8f97ce2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 468
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30198be8794134f40966172e7c0898d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 469
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9fa8b5b413102439e1ef2b3efa2391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 468
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd88bbc13256fa64ab2a2e4ea14261ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5e5b61722adea46ac920e7942ef610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5f8f85cacc5704d9e023b2a310db19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_12
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e41f33b30228a48922e9e6df3b2cf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_13
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea0cac769fd03246977aa6086c16381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_14
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1c82aed45580a4b9292ecd02a96d4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 438
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c67ca6e07d0b04d80dfd71a4f9084c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 438
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb487072692a8746812919b75113deb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ca1f9d1f253cc4c8011cd3dacca36c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 437
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95615e88c72fd248aca9cb9a1e7cbad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb5356a0c1c26d4db4531cb57645d6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0926f4985f22514da5e5e848cc0cdf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 437
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f781b9d2c5c5ee488ad4d86db0fa207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_22
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6267a51bf162514fa4f030c082526e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_23
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 438
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218809c3fda8c394f9166b387b17906d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed6c5365209397439d7df71defa4db4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 438
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fced2b9e0a8b3c54f81999db2bf2cb67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_26
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 438
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdb744ed5f380e45a81f19489c43ab1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef778cebab11214081bb08caff9ae7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_28
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 437
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1b32b0b16902141a095d90d16f3dea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_29
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 437
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9197d0ca6e3d1c43a545a04a44c88ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 405
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178c87612b8c90748a98dd7337547fcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 405
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c2c87f6b5ee96489bcfb0ec8f3cc82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555fd0fd4bf307b40a0f6d6bf2587e45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 405
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06af7fa1e57659d46bf3fba8167ff99f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98918067a80f434bb0ce80b2c7ac4be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc328a382e831949884749f4c9ce607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f340aaa3b15cbc54e98c156475f298e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0d17acd41067741b87b1be8ea78187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_38
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429a04071d6d51f488ad465ff24306f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090d102bffe4fc4459d2c36d4ec86fcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_40
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd1fad1ec2921d4fbc44238916bfda4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_41
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 405
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44b45aa2cca02e4785415a845dd6dbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3079c45303fb7ff449fba995691a3530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_43
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 405
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9451c0c741925084e8e37b044c8f3e38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_44
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 405
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c9feb5a83262548b10e044bb69d1ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 372
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecb7c7188ce1e04aadeb6c149c55e73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_46
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 372
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5372430a44fc8e243a0da0fc74bfb344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 372
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50d93d37f34ad24eaedbd2263752dc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 372
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed8f1b2f3ebcaf418ba16412fe5bd02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 372
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0531d0472c0c44abb10aededa449ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_50
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 372
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af06ce531cafc44393186276f5cb721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_51
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 371
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b1557bb57d01742ae88f20b04505d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_52
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 372
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff4d441d38162e4c80f5aa1f632e7e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_53
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 372
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e987e5d73ec285d44b73181319818aaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 372
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240cb73215c4cdc4ca960449bd4de3ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_55
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 372
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1f3f2a71cff6c4fa9239536b13480a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_56
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 372
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a007c3bc0fd091f4d94a533de6f29e30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_57
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 372
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e91d1f7b33ef6b4abb4335309fe92d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_58
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 372
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd61fb904ce92064c85ed759e4d21f31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 372
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caeb12b54dc0c1c408fcf9053f16a3a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 339
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edd4c4ada136914e920e92d4b17ccb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_61
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 339
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d8ea1d0bfd0c1428328bbb6d5b5bf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_62
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abec779cd8679224c960edddd4f739a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 339
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ede29c28876254fb1723f299f76bab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_64
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 339
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf60b1e0f868a34d9943d658e7cf87a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_65
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 339
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77d026c76c7e0a4daba524e4e089113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_66
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 339
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbc13cc2865196499d73d565a2ea63a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_67
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 339
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c9543262f29e343a0c176a83fde156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_68
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 339
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a959705de440cfd4b9f90f2b6ae39bc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_69
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a3102c4c5cb3444881e19c34269cf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_70
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e63c6cb0dc1ba4990a9eec4e7eb4af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_71
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e0fef5618981140bcf91af0f7d4295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_72
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 339
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af6a6e13a34ab947930eeb2a5e877bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_73
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 339
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c57df309a158024eb01e53ee022fda6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_74
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 339
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5eb60ced51566d45abbfe7efd6f42d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 306
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c2bc4989fee6d4bb7bc3c24c289dce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 306
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ee5ebcf9d29254da0adc2c4344d7c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_77
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 306
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b64b144bdaa1b4a9f5f5e3fc7f3481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_78
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567692e67d792bf4786d61f6bd7b2f98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_79
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 306
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04479adb412124543960c97bb7c23d33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_80
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9ea9d6c6be04d46b63eb5c54ba6cde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_81
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 306
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f211a5bfff703846abbb0645d533491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_82
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 306
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ea807d7df09284cb363e71258d2b89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_83
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8a77609cbcf1945a753153a61847a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_84
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf88f02670184243a1ddb89c636013a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_85
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 306
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b0e89c6c3d068409f52ce0d24ff00b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_86
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c91a693d9c4f34ea48fb13e79e49f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_87
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9e406f6499cdc4ab6fda52b7e042ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_88
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c7f525148c689468100bc4f9cb51a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_89
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb22a4a0d225bd748ba33c9a16567312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 273
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbacb91759a21cc4cadb25d817420a01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_91
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65213185001f8e48a6e2f3bde58403c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_92
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ad9d626881f13439d3e2a90e417f25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_93
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 273
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072316614b63bf24c9a9bed9ddb75bda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 273
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c687a5d1e2e0d7647b9938db6bb02c8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_95
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 273
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75befa27da3a804b918571cf47813b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_96
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 273
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b468d78aef5ac4ba842c727371300a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_97
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 273
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddc7922d17124d4cb1c282cada9b0c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_98
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf96936fe995a24381ffe4c17b97387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_99
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 181
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033dbaab19310c94caba78f9465440f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_100
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 184
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b4bb01383ee774886df2fe5636b18a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_101
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 184
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ec49bf153322b4b985bc0d7208b400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_102
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 185
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5314a434909eaa64cb362b0d9caabeb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_103
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 185
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30eb18b0714eb948a0f57342f94c6b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_104
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 185
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b846a336d9f80cf4483b8388a6fcf5a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_105
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 108
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782e2e112b972ca44a76e4388f9c9ed8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_106
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 112
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ccfc03b89b18341ae8662b15ca8ffa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_107
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 110
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3cfb63dd4f364419e03025491e2fb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_108
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10b782f65b11ca4786ae29c9c340809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_109
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 109
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba0af0d682aa754a8768523699cfe79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_110
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 108
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a4a9b950df999418818b17ebafdd4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_111
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 107
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8bf9a57d354624bb50838efa5f09cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c6fbefc12b1fe42af62f58fe81ddd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_113
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 44
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc87108e493a1854da593cb7b3df1376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_114
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907f7f497ce472a4a94b503533c72be4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_115
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 60
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41400adaf303cf7439304baa334fab29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 60
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab542dbef0380045ba6f9af62a6a3cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_117
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb86615e0ea1c845a2b81adce475148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_118
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5eaf5afde71f04e830a7f205616e38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_119
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 60
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1ba02ce60512b479caeaa7075f3453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_120
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 63
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa552c5920ae754ebebc7c756c307a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_121
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95446a0ac322b6748b28f338e769b6f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_122
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cfcce6726ad28458871650c8a98fac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_123
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55afecb0938a69b4db916b66ce651841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_124
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 63
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089aae162dfec004ca99e13790c1b961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_125
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 63
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20eb3cbcb172116459ea08ad9dcfbe1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_126
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 47
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69da1accd7f60364ab93806028662a64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_127
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 44
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c143ce5b22d4dec468c49ec03a4dc460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_128
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155afd38d9f2fa3468bfbd8c6320d0d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_129
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7340b8cf02734f8408f695caee35ef67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_130
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a2ab30a32b23d4cbb4ac1485fdb177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_131
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 47
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d643aa6e64b886b44b2a5cf8f382d047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_132
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62b34716b768a144869d310fe12bade
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_133
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87a5650592180c4fbdc2f2646dc1ea4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_134
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 47
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b48d66f97aa9af4aad3e5c2dc866aaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_135
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 47
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd49bd2e3e8476d46bf97fcea9aeb89d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_136
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df05d7138817214e90464bc79e9f334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_137
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde94f273d905b049added888139b345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_138
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f38b0a82657b140b5057ce3ff2c8db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_139
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308117b7e83d1f847b114610815153f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_140
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 31
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a894424417b0504e8eae1222ac5129c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_141
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db386ac2e65472741983dcc09ccb7bdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_142
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dab6085bbc8aa4284f0f0633002319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_143
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0978b914037471d46967f4b6eca358d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_144
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e7af95e608cfc4b9a7e2099297915e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_145
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc5e65a0d706834691386d1dca00975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_146
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ebed7ac9efadd4aa1c6cfd312e476b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_147
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0a26e4237554e448d5b6aa2eb57bc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_148
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d350996721b704286278499e90db0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Bubble Bobble Plus - Food_149
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5df3462860f2cf4a9b6331e7a0fbb87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6e015d1ffe1279544aaaa1a1f3c1237c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
